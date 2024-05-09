@@ -1,0 +1,9 @@
+header{
+    text-align: center;
+}  
+body{
+    background-color: lightgray;
+    text-align: center;
+    align-items: center;
+    width: 800px;
+}
